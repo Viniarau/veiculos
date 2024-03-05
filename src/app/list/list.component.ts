@@ -36,12 +36,20 @@ export class ListComponent {
   constructor(private http: HttpClient) { }
 
   ngOnInit() {
-    this.http.get<any[]>('assets/mock/vehicles.json').subscribe(
+    this.http.get<any[]>('http://localhost:3000/vehicles').subscribe(
       (data) => {
         this.vehicles = data;
       },
       (error) => {
-        console.error('Error loading vehicle data:', error);
+        console.error('Error loading vehicle data server:', error);
+        this.http.get<any[]>('assets/mock/vehicles.json').subscribe(
+          (data) => {
+            this.vehicles = data;
+          },
+          (error) => {
+            console.error('Error loading vehicle data:', error);
+          }
+    );
       }
     );
   }
