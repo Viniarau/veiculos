@@ -1,0 +1,50 @@
+:host {
+  display: block;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 15px;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+  background-color: rgb(34, 21, 80);
+}
+
+.vehicle-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.vehicle-list-item {
+  display: flex;
+  width: 100%;
+  max-width: 200px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.vehicle-list-item:hover {
+  transform: translateY(-4px);
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+.info {
+  color: #666;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}

@@ -1,0 +1,202 @@
+[
+    {
+      "model": "Gol",
+      "brand": "Volkswagen",
+      "year": 2022,
+      "color": "Silver",
+      "mileage": 15000,
+      "fuelType": "Gasoline",
+      "engine": "1.0",
+      "transmission": "Manual"
+    },
+    {
+      "model": "Corolla",
+      "brand": "Toyota",
+      "year": 2021,
+      "color": "White",
+      "mileage": 20000,
+      "fuelType": "Flex",
+      "engine": "1.8",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "Onix",
+      "brand": "Chevrolet",
+      "year": 2023,
+      "color": "Black",
+      "mileage": 10000,
+      "fuelType": "Flex",
+      "engine": "1.0 Turbo",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "Civic",
+      "brand": "Honda",
+      "year": 2020,
+      "color": "Red",
+      "mileage": 25000,
+      "fuelType": "Gasoline",
+      "engine": "2.0",
+      "transmission": "CVT"
+    },
+    {
+      "model": "HB20",
+      "brand": "Hyundai",
+      "year": 2022,
+      "color": "Blue",
+      "mileage": 18000,
+      "fuelType": "Flex",
+      "engine": "1.6",
+      "transmission": "Manual"
+    },
+    {
+      "model": "Ka",
+      "brand": "Ford",
+      "year": 2021,
+      "color": "Gray",
+      "mileage": 22000,
+      "fuelType": "Flex",
+      "engine": "1.5",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "T-Cross",
+      "brand": "Volkswagen",
+      "year": 2023,
+      "color": "Green",
+      "mileage": 12000,
+      "fuelType": "Flex",
+      "engine": "1.4 Turbo",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "Compass",
+      "brand": "Jeep",
+      "year": 2020,
+      "color": "Silver",
+      "mileage": 30000,
+      "fuelType": "Diesel",
+      "engine": "2.0",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "HR-V",
+      "brand": "Honda",
+      "year": 2022,
+      "color": "Black",
+      "mileage": 20000,
+      "fuelType": "Gasoline",
+      "engine": "1.8",
+      "transmission": "CVT"
+    },
+    {
+      "model": "Renegade",
+      "brand": "Jeep",
+      "year": 2021,
+      "color": "White",
+      "mileage": 18000,
+      "fuelType": "Flex",
+      "engine": "1.8",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "S10",
+      "brand": "Chevrolet",
+      "year": 2023,
+      "color": "Blue",
+      "mileage": 25000,
+      "fuelType": "Diesel",
+      "engine": "2.8",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "Hilux",
+      "brand": "Toyota",
+      "year": 2020,
+      "color": "Red",
+      "mileage": 28000,
+      "fuelType": "Diesel",
+      "engine": "2.4",
+      "transmission": "Manual"
+    },
+    {
+      "model": "Fiesta",
+      "brand": "Ford",
+      "year": 2022,
+      "color": "Gray",
+      "mileage": 21000,
+      "fuelType": "Gasoline",
+      "engine": "1.0",
+      "transmission": "Manual"
+    },
+    {
+      "model": "Ranger",
+      "brand": "Ford",
+      "year": 2021,
+      "color": "Black",
+      "mileage": 23000,
+      "fuelType": "Diesel",
+      "engine": "3.2",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "Polo",
+      "brand": "Volkswagen",
+      "year": 2023,
+      "color": "White",
+      "mileage": 15000,
+      "fuelType": "Flex",
+      "engine": "1.0 Turbo",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "Creta",
+      "brand": "Hyundai",
+      "year": 2020,
+      "color": "Silver",
+      "mileage": 26000,
+      "fuelType": "Gasoline",
+      "engine": "1.6",
+      "transmission": "CVT"
+    },
+    {
+      "model": "Fusion",
+      "brand": "Ford",
+      "year": 2022,
+      "color": "Black",
+      "mileage": 24000,
+      "fuelType": "Gasoline",
+      "engine": "2.0",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "Tucson",
+      "brand": "Hyundai",
+      "year": 2021,
+      "color": "Red",
+      "mileage": 19000,
+      "fuelType": "Gasoline",
+      "engine": "2.0",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "Amarok",
+      "brand": "Volkswagen",
+      "year": 2023,
+      "color": "Gray",
+      "mileage": 20000,
+      "fuelType": "Diesel",
+      "engine": "3.0",
+      "transmission": "Automatic"
+    },
+    {
+      "model": "Prisma",
+      "brand": "Chevrolet",
+      "year": 2020,
+      "color": "Blue",
+      "mileage": 27000,
+      "fuelType": "Flex",
+      "engine": "1.4",
+      "transmission": "Manual"
+    }
+  ]
